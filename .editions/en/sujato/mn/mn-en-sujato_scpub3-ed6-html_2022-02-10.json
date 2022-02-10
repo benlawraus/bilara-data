@@ -1,10 +1,10 @@
 {
   "publication_number": "scpub3",
   "text_uid": "mn",
-  "edition_number": "2",
+  "edition_number": "6",
   "isbn": "abcdefg",
   "cip": "wxyz",
-  "publication_type": "epub",
+  "publication_type": "html",
   "created": "2022-02-10",
   "updated": "2022-02-11",
   "page_size": false,
