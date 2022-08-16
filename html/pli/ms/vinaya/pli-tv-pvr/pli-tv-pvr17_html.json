@@ -1,5 +1,5 @@
 {
-  "pli-tv-pvr17:0.1": "<article id='pli-tv-pvr17'><header><ul><li class='division'>{}</li></ul>",
+  "pli-tv-pvr17:0.1": "<article id='pli-tv-pvr17' data-split='epub'><header><ul><li class='division'>{}</li></ul>",
   "pli-tv-pvr17:0.2": "<h1 class='sutta-title'>{}</h1></header>",
   "pli-tv-pvr17:0.3": "<h2>{}</h2>",
   "pli-tv-pvr17:1.1": "<p>{}",
@@ -541,7 +541,7 @@
   "pli-tv-pvr17:131.3": "{}",
   "pli-tv-pvr17:131.4": "{}",
   "pli-tv-pvr17:131.5": "{}</p>",
-  "pli-tv-pvr17:132.1": "<p data-content='1'{}</p>",
+  "pli-tv-pvr17:132.1": "<p data-content='1'>{}</p>",
   "pli-tv-pvr17:133.1": "<p>{}",
   "pli-tv-pvr17:133.2": "{}",
   "pli-tv-pvr17:133.3": "{}",
