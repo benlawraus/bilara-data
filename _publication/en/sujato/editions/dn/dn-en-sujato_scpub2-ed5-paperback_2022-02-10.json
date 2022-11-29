@@ -1,0 +1,100 @@
+{
+  "publication_number": "scpub2",
+  "text_uid": "dn",
+  "edition_number": "ed5",
+  "publication_isbn": "978-1-76132-052-1",
+  "publication_blurb": "The Long Discourses (Dīgha Nikāya, abbreviated DN) is a collection of 34 discourses in the Pali canon (Tipiṭaka) of the Theravāda school. The word “long” refers to the length of the individual discourses, not the collection as a whole, which is in fact the smallest of the five Pali Nikāyas. It is one of the fundamental collections of early Buddhist teachings, depicting the Buddha in a lively range of settings. Many of its extended narratives in diverse literary styles feature interreligious dialog with brahmins and other non-Buddhists. ",
+  "cip": false,
+  "publication_type": "paperback",
+  "page_width": "6in",
+  "page_height": "9in",
+  "cover_bleed": "3mm",
+  "cover_flap_width": null,
+  "cover_theme_color": "blue",
+  "main_toc_depth": "all",
+  "secondary_toc": false,
+  "sources": {
+    "main_text": "translation-en-sujato",
+    "notes": "comment-en-sujato",
+    "reference": "reference",
+    "markup": "html"
+  },
+  "number_of_volumes": 3,
+  "volumes": [
+    {
+      "volume_number": "vol1",
+      "volume_isbn": "978-1-76132-094-1",
+      "volume_acronym": "DN 1–13",
+      "volume_translation_title": "The Chapter on the Entire Spectrum of Ethics",
+      "volume_root_title": "Sīlakkhandhavagga",
+      "volume_blurb": null,
+      "cover_background_image": "blue1.png",
+      "cover_image": "paperback_cover_6inx9in_vol1.pdf",
+      "frontmatter": [
+        "titlepage",
+        "halftitlepage",
+        "imprint",
+        "./matter/epigraph.html",
+        "main-toc",
+        "./matter/foreword.html",
+        "./matter/preface.html",
+        "./matter/general_introduction.html",
+        "./matter/introduction.html",
+        "./matter/acknowledgements.html",
+        "blurbs"
+      ],
+      "mainmatter": [
+        "dn-silakkhandhavagga"
+      ],
+      "backmatter": [
+        "colophon"
+      ]
+    },
+    {
+      "volume_number": "vol2",
+      "volume_isbn": "978-1-76132-095-8",
+      "volume_acronym": "DN 14–23",
+      "volume_translation_title": "The Great Chapter",
+      "volume_root_title": "Mahāvagga",
+      "volume_blurb": null,
+      "cover_background_image": "blue2.png",
+      "cover_image": "paperback_cover_6inx9in_vol2.pdf",
+      "frontmatter": [
+        "titlepage",
+        "halftitlepage",
+        "imprint",
+        "main-toc",
+        "blurbs"
+      ],
+      "mainmatter": [
+        "dn-mahavagga"
+      ],
+      "backmatter": [
+        "colophon"
+      ]
+    },
+    {
+      "volume_number": "vol3",
+      "volume_isbn": "978-1-76132-096-5",
+      "volume_acronym": "DN 24–34",
+      "volume_translation_title": "The Chapter with Pāṭikaputta",
+      "volume_root_title": "Pāthikavagga",
+      "volume_blurb": null,
+      "cover_background_image": "blue3.png",
+      "cover_image": "paperback_cover_6inx9in_vol3.pdf",
+      "frontmatter": [
+        "titlepage",
+        "halftitlepage",
+        "imprint",
+        "main-toc",
+        "blurbs"
+      ],
+      "mainmatter": [
+        "dn-pathikavagga"
+      ],
+      "backmatter": [
+        "colophon"
+      ]
+    }
+  ]
+}

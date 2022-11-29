@@ -81,7 +81,7 @@
   },
   "phantuananh": {
     "type": "translator",
-    "name": "Phan Tuấn Anh"
+    "name": "Bhikkhu Thích Minh Châu"
   },
   "kovilo": {
     "type": "translator",
@@ -125,10 +125,34 @@
   },
   "brankokovacevic": {
     "type": "translator",
-    "name": "Branko Kovačević"
+    "name": "Branislav Kovačević"
   },
   "noeismet": {
     "type": "translator",
     "name": "Noé Ismet"
+  },
+  "laera": {
+    "type": "translator",
+    "name": "Laera et al."
+  },
+  "cittadhammo": {
+    "type": "translator",
+    "name": "Cittadhammo Bhikkhu"
+  },
+  "korakot": {
+    "type": "translator",
+    "name": "Korakot Chaovavanich"
+  },
+  "sekha": {
+    "type": "translator",
+    "name": "Bhikkhu Sekha"
+  },
+  "davis": {
+    "type": "translator",
+    "name": "Dr Joongpyo Lee"
+  },
+  "pasanna": {
+    "type": "translator",
+    "name": "Venerable Pasanna"
   }
 }
