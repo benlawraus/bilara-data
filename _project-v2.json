@@ -189,7 +189,7 @@
     "root_path": "root/en/blurb",
     "translation_path": "translation/fr/blurb",
     "translation_muids": "translation-fr",
-    "creator_github_handle": "EnoMetis"
+    "creator_github_handle": "noeismet"
   },
   {
     "project_uid": "fr_localization",
@@ -197,7 +197,7 @@
     "root_path": "root/en/site",
     "translation_path": "translation/fr/site",
     "translation_muids": "translation-fr-site",
-    "creator_github_handle": "EnoMetis"
+    "creator_github_handle": "noeismet"
   },
   {
     "project_uid": "fr_ms_translation_cittadhammo",
@@ -213,7 +213,7 @@
     "root_path": "root/pli/ms/sutta",
     "translation_path": "translation/fr/noeismet/sutta",
     "translation_muids": "translation-fr-noeismet",
-    "creator_github_handle": "EnoMetis"
+    "creator_github_handle": "noeismet"
   },
   {
     "project_uid": "fr_ms_translation_sekha",
@@ -229,7 +229,7 @@
     "root_path": "root/misc/site",
     "translation_path": "translation/fr/site",
     "translation_muids": "translation-fr-site",
-    "creator_github_handle": "EnoMetis"
+    "creator_github_handle": "noeismet"
   },
   {
     "project_uid": "gu_ms_translation_trush",
@@ -323,6 +323,14 @@
     "creator_github_handle": "HarDao"
   },
   {
+    "project_uid": "pl_ms_translation_marcinow",
+    "name": "Polish sutta translation Piotr Marcinów",
+    "root_path": "root/pli/ms/sutta/sn",
+    "translation_path": "translation/pl/marcinow/sutta/sn",
+    "translation_muids": "translation-pl-marcinow",
+    "creator_github_handle": "pyjterq"
+  },
+  {
     "project_uid": "pt_blurb_translation",
     "name": "Portuguese blurb translation",
     "root_path": "root/en/blurb",
@@ -365,6 +373,14 @@
       "gnlaera",
       "vngmar"
     ]
+  },
+  {
+    "project_uid": "ru_ms_translation_sv",
+    "name": "Russian translation",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/ru/sv/sutta",
+    "translation_muids": "translation-ru-sv",
+    "creator_github_handle": "o28o"
   },
   {
     "project_uid": "si_ms_translation_madhu",
