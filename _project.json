@@ -54,22 +54,22 @@
       }
     ]
   },
-  "de_names_translation": {
-    "name": "German names translation",
-    "root_path": "root/misc/site",
-    "translation_path": "translation/de/site",
-    "translation_muids": "translation-de-site",
+  "de_ms_translation_sabbamitta_vinaya": {
+    "name": "German Patimokkha translation Sabbamitta",
+    "root_path": "root/pli/ms/vinaya",
+    "translation_path": "translation/de/sabbamitta/vinaya",
+    "translation_muids": "translation-de-sabbamitta",
     "collaborator": [
       {
         "author_github_handle": "sabbamitta"
       }
     ]
   },
-  "de_vri_translation_sabbamitta": {
-    "name": "German Patimokkha translation Sabbamitta",
-    "root_path": "root/pli/vri/vinaya",
-    "translation_path": "translation/de/sabbamitta/vinaya",
-    "translation_muids": "translation-de-sabbamitta",
+  "de_names_translation": {
+    "name": "German names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/de/site",
+    "translation_muids": "translation-de-site",
     "collaborator": [
       {
         "author_github_handle": "sabbamitta"
@@ -111,8 +111,19 @@
   },
   "en_ms_translation_soma": {
     "name": "English translation Ayya Soma",
-    "root_path": "root/pli/ms/sutta/kn/thig",
-    "translation_path": "translation/en/soma/sutta/kn/thig",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/en/soma/sutta",
+    "translation_muids": "translation-en-soma",
+    "collaborator": [
+      {
+        "author_github_handle": "ayyasoma"
+      }
+    ]
+  },
+  "en_ms_translation_soma_vinaya": {
+    "name": "English Vinaya translation Ayya Soma",
+    "root_path": "root/pli/ms/vinaya",
+    "translation_path": "translation/en/soma/vinaya",
     "translation_muids": "translation-en-soma",
     "collaborator": [
       {
@@ -131,32 +142,21 @@
       }
     ]
   },
-  "es_ms_translation_sumano_sutta": {
-    "name": "Spanish sutta translation Bhante Sumano",
-    "root_path": "root/pli/ms/sutta/an",
-    "translation_path": "translation/es/sumano/sutta/an",
-    "translation_muids": "translation-es-sumano",
-    "collaborator": [
-      {
-        "author_github_handle": "vensumano"
-      }
-    ]
-  },
-  "es_ms_translation_sumano_vinaya": {
-    "name": "Spanish vinaya translation Bhante Sumano",
-    "root_path": "root/pli/ms/vinaya",
-    "translation_path": "translation/es/sumano/vinaya",
-    "translation_muids": "translation-es-sumano",
-    "collaborator": [
-      {
-        "author_github_handle": "vensumano"
-      }
-    ]
-  },
   "en_ms_translation_sujato": {
     "name": "English translation Bhikkhu Sujato",
     "root_path": "root/pli/ms/sutta",
     "translation_path": "translation/en/sujato/sutta",
+    "translation_muids": "translation-en-sujato",
+    "collaborator": [
+      {
+        "author_github_handle": "sujato"
+      }
+    ]
+  },
+  "en_ms_translation_sujato_vinaya": {
+    "name": "English Patimokkha translation Sujato Bhikkhu",
+    "root_path": "root/pli/ms/vinaya",
+    "translation_path": "translation/en/sujato/vinaya",
     "translation_muids": "translation-en-sujato",
     "collaborator": [
       {
@@ -197,17 +197,6 @@
       }
     ]
   },
-  "en_vri_translation_brahmali": {
-    "name": "English Patimokkha translation Bhikkhu Brahmali",
-    "root_path": "root/pli/vri/vinaya",
-    "translation_path": "translation/en/brahmali/vinaya",
-    "translation_muids": "translation-en-brahmali",
-    "collaborator": [
-      {
-        "author_github_handle": "brahmali"
-      }
-    ]
-  },
   "en_vri_translation_comm-team": {
     "name": "English translation of the commentaries",
     "root_path": "root/pli/vri/sutta/atthakatha",
@@ -236,14 +225,36 @@
       }
     ]
   },
-  "en_vri_translation_sujato": {
-    "name": "English Patimokkha translation Bhikkhu Sujato",
-    "root_path": "root/pli/vri/vinaya",
-    "translation_path": "translation/en/sujato/vinaya",
-    "translation_muids": "translation-en-sujato",
+  "es_ms_translation_maggatr": {
+    "name": "Spanish sutta translation Magga Traducciones",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/es/maggatr/sutta",
+    "translation_muids": "translation-es-maggatr",
     "collaborator": [
       {
-        "author_github_handle": "sujato"
+        "author_github_handle": "magga-es"
+      }
+    ]
+  },
+  "es_ms_translation_sumano_sutta": {
+    "name": "Spanish sutta translation Bhante Sumano",
+    "root_path": "root/pli/ms/sutta/an",
+    "translation_path": "translation/es/sumano/sutta/an",
+    "translation_muids": "translation-es-sumano",
+    "collaborator": [
+      {
+        "author_github_handle": "vensumano"
+      }
+    ]
+  },
+  "es_ms_translation_sumano_vinaya": {
+    "name": "Spanish vinaya translation Bhante Sumano",
+    "root_path": "root/pli/ms/vinaya",
+    "translation_path": "translation/es/sumano/vinaya",
+    "translation_muids": "translation-es-sumano",
+    "collaborator": [
+      {
+        "author_github_handle": "vensumano"
       }
     ]
   },
@@ -370,8 +381,19 @@
   },
   "it_ms_translation_soma": {
     "name": "Italian translation Ayya Soma",
-    "root_path": "root/pli/ms/sutta/kn/thig",
-    "translation_path": "translation/it/soma/sutta/kn/thig",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/it/soma/sutta",
+    "translation_muids": "translation-it-soma",
+    "collaborator": [
+      {
+        "author_github_handle": "ayyasoma"
+      }
+    ]
+  },
+  "it_ms_translation_soma_vinaya": {
+    "name": "Italian Vinaya translation Ayya Soma",
+    "root_path": "root/pli/ms/vinaya",
+    "translation_path": "translation/it/soma/vinaya",
     "translation_muids": "translation-it-soma",
     "collaborator": [
       {
@@ -470,6 +492,9 @@
       },
       {
         "author_github_handle": "vngmar"
+      },
+      {
+        "author_github_handle": "luisisrael15"
       }
     ]
   },
@@ -501,9 +526,9 @@
       }
     ]
   },
-  "pt_vri_translation": {
+  "pt_translation_vinaya": {
     "name": "Portuguese Patimokkha translation",
-    "root_path": "root/pli/vri/vinaya",
+    "root_path": "root/pli/ms/vinaya",
     "translation_path": "translation/pt/laera-quaresma/vinaya",
     "translation_muids": "translation-pt-laera-quaresma",
     "collaborator": [
