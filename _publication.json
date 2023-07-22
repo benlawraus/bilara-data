@@ -3109,7 +3109,7 @@
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": "his translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
     },
     "edition": [
       {
@@ -3195,14 +3195,116 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "es",
     "translation_lang_name": "Español",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/es/maggatr/sutta",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/es/maggatr/sutta/sn",
     "author_uid": "maggatr",
     "author_name": "Magga Traducciones",
     "author_github_handle": "magga-es",
-    "text_uid": "",
+    "text_uid": "sn",
+    "translation_title": "Discursos enlazados",
+    "translation_subtitle": "Saṁyutta Nikāya",
+    "root_title": "Saṁyuttanikāya",
+    "translation_process": "Se parte de la segmentación del Pali ofrecida por la plataforma Bilara de suttacentral.net, y se realiza basándose en las traducciones de Bhante Sujato y Bhikkhu Bodhi, consultado en ocasiones otras referencias en distintos idiomas, así como el significado del Pali original de términos específicos cuando se considera necesario.",
+    "translation_description": "Traducciones hechas al español para estudio del grupo Magga Traducciones, y ofrecer también una alternativa a las ya existentes en esta lengua por si fuese de utilidad.",
+    "is_published": true,
+    "publication_status": "Perpetuamente en curso.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Esta traducción es una expresión de un antiguo texto espiritual que ha sido transmitido por la tradición budista en beneficio de todos los seres. Se ofrece al dominio público a través de Creative Commons Zero (CC0). Se te anima a copiar, reproducir, adaptar, alterar o hacer uso de esta traducción. El traductor solicita respetuosamente que cualquier uso sea de acuerdo con los valores y principios de la comunidad budista."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2023",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/sn"
+      }
+    ]
+  },
+  "scpub90": {
+    "publication_number": "scpub90",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "es",
+    "translation_lang_name": "Español",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/es/maggatr/sutta/an",
+    "author_uid": "maggatr",
+    "author_name": "Magga Traducciones",
+    "author_github_handle": "magga-es",
+    "text_uid": "an",
+    "translation_title": "Discursos agrupados numéricamente",
+    "translation_subtitle": "Aṅguttara Nikāya",
+    "root_title": "Aṅguttaranikāya",
+    "translation_process": "Se parte de la segmentación del Pali ofrecida por la plataforma Bilara de suttacentral.net, y se realiza basándose en las traducciones de Bhante Sujato y Bhikkhu Bodhi, consultado en ocasiones otras referencias en distintos idiomas, así como el significado del Pali original de términos específicos cuando se considera necesario.",
+    "translation_description": "Traducciones hechas al español para estudio del grupo Magga Traducciones, y ofrecer también una alternativa a las ya existentes en esta lengua por si fuese de utilidad.",
+    "is_published": true,
+    "publication_status": "Perpetuamente en curso.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Esta traducción es una expresión de un antiguo texto espiritual que ha sido transmitido por la tradición budista en beneficio de todos los seres. Se ofrece al dominio público a través de Creative Commons Zero (CC0). Se te anima a copiar, reproducir, adaptar, alterar o hacer uso de esta traducción. El traductor solicita respetuosamente que cualquier uso sea de acuerdo con los valores y principios de la comunidad budista."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2023",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/an"
+      }
+    ]
+  },
+  "scpub91": {
+    "publication_number": "scpub91",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "de",
+    "translation_lang_name": "Deutsch",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta/sutta/kn/mil",
+    "author_uid": "sabbamitta",
+    "author_name": "Sabbamitta",
+    "author_github_handle": "sabbamitta",
+    "text_uid": "mil",
+    "translation_title": "Die Fragen des Königs Milinda",
+    "translation_subtitle": "Eine Übersetzung des Milindapañha",
+    "root_title": "Milindapañha",
+    "translation_process": "Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka. Die Übersetzung stützt sich auf Nyanatiloka Theras und Nyanaponika Theras bestehende deutsche Übersetzung und zieht auch englische Übersetzungen, insbesondere die neuere Übersetzung von John Kelly, heran.",
+    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas sowie die älteren Teile des Khuddaka-Nikāya ins Deutsche zu übersetzen; vereinzelt werden auch andere Texte aus dem Khuddaka-Nikāya eingeschlossen. Die Übersetzung geht von früheren Übersetzungen, insbesondere der von Nyanatiloka Thera und Nyanaponika Thera, aus. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali; kein Copyright. Das gesamte Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
+    "is_published": true,
+    "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Diese Übersetzung ist Ausdruck eines alten spirituellen Textes, der von der buddhistischen Tradition für das Wohl aller Lebewesen weitergegeben wurde. Er ist dem öffentlichen Besitz gewidmet in Form von „Creative Commons Zero (CC0 1.0 Universal)“. Es steht Ihnen frei, diese Übersetzung zu kopieren, zu verändern, weiter zu verteilen, vorzuführen, vorzutragen, zu übermitteln oder auf jegliche gewünschte Weise zu verwenden. Die Übersetzerin bittet höflich darum, dass jede Verwendung in Übereinstimmungmit den Werten und Grundsätzen der buddhistischen Gemeinschaft erfolgt."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2023",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/mil"
+      }
+    ]
+  },
+  "scpub92": {
+    "publication_number": "scpub92",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "en",
+    "translation_lang_name": "English",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/kelly/sutta/kn/mil",
+    "author_uid": "kelly",
+    "author_name": "John Kelly",
+    "author_github_handle": "GillianPerrett",
+    "text_uid": "mil",
     "translation_title": "",
     "translation_subtitle": "",
-    "root_title": "",
+    "root_title": "Milindapañha",
     "translation_process": "",
     "translation_description": "",
     "is_published": false,
@@ -3211,7 +3313,7 @@
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": ""
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
     },
     "edition": [
       {
@@ -3219,7 +3321,7 @@
         "publication_date": "",
         "publisher": "SuttaCentral",
         "publication_type": "website",
-        "edition_url": ""
+        "edition_url": "https://suttacentral.net/mil"
       }
     ]
   }
