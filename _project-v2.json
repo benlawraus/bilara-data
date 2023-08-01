@@ -77,7 +77,10 @@
     "root_path": "root/pli/ms/sutta/kn/mil",
     "translation_path": "translation/en/kelly/sutta/kn/mil",
     "translation_muids": "translation-en-kelly",
-    "creator_github_handle": "GillianPerrett"
+    "creator_github_handle": [
+      "palistudent",
+      "GillianPerrett"
+    ]
   },
   {
     "project_uid": "en_ms_translation_kovilo",
@@ -485,8 +488,8 @@
   {
     "project_uid": "sr_ms_translation_brankokovacevic",
     "name": "Serbian translation Branko Kovačević",
-    "root_path": "root/pli/ms/sutta/dn",
-    "translation_path": "translation/sr/brankokovacevic/sutta/dn",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/sr/brankokovacevic/sutta",
     "translation_muids": "translation-sr-brankokovacevic",
     "creator_github_handle": "Bundi-py"
   },
