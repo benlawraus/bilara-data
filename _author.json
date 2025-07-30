@@ -47,6 +47,10 @@
     "type": "translator",
     "name": "Ryan John Guilfoyle"
   },
+  "christelle": {
+    "type": "translator",
+    "name": "Christelle Ah-Mouck"
+  },  
   "cittadhammo": {
     "type": "translator",
     "name": "Cittadhammo Bhikkhu"
@@ -59,6 +63,14 @@
     "type": "translator",
     "name": "Dr Joongpyo Lee"
   },
+  "dogensisapa": {
+    "type": "translator",
+    "name": "Dōgen Sisapa"
+  },  
+  "flavio": {
+    "type": "translator",
+    "name": "Flavio Stucky"
+  }, 
   "font": {
     "type": "translator",
     "name": "Bernat Font"
@@ -181,7 +193,7 @@
   },
   "sekha": {
     "type": "translator",
-    "name": "Bhikkhu Sekha"
+    "name": "Rémy Zins"
   },
   "seniya": {
     "type": "translator",
@@ -217,7 +229,7 @@
   },
   "thitanana": {
     "type": "translator",
-    "name": "Ṭhitañāṇa Bhikkhu"
+    "name": "Ṭhitañāṇa Bhikkhu (Dr. Andrus Kahn)"
   },
   "trush": {
     "type": "translator",

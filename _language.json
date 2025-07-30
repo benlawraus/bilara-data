@@ -59,6 +59,11 @@
     "name": "Français",
     "is_root": false
   },
+  "gsw": {
+    "type": "language",
+    "name": "Züridütsch",
+    "is_root": false
+  },
   "gu": {
     "type": "language",
     "name": "ગુજરાતી",
@@ -82,6 +87,11 @@
   "jpn": {
     "type": "language",
     "name": "日本語",
+    "is_root": false
+  },
+  "kan": {
+    "type": "language",
+    "name": "ಕನ್ನಡ",
     "is_root": false
   },
   "ko": {
@@ -143,7 +153,7 @@
     "type": "language",
     "name": "தமிழ்",
     "is_root": false
-  },  
+  },
   "th": {
     "type": "language",
     "name": "ไทย",
@@ -157,6 +167,11 @@
   "vi": {
     "type": "language",
     "name": "Tiếng Việt",
+    "is_root": false
+  },
+  "ur": {
+    "type": "language",
+    "name": "اُردُو",
     "is_root": false
   }
 }

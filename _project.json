@@ -374,6 +374,17 @@
       }
     ]
   },
+  "fr_ms_translation_christelle": {
+    "name": "French sutta translation Christelle Ah-Mouck",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/fr/christelle/sutta",
+    "translation_muids": "translation-fr-christelle",
+    "collaborator": [
+      {
+        "author_github_handle": "ChristelleAh-Mouck"
+      }
+    ]
+  },
   "fr_ms_translation_cittadhammo": {
     "name": "French sutta translation Cittadhammo Bhikkhu",
     "root_path": "root/pli/ms/sutta",
@@ -408,13 +419,24 @@
     ]
   },
   "fr_ms_translation_sekha": {
-    "name": "French sutta translation Bhikkhu Sekha",
+    "name": "French sutta translation Rémy Zins",
     "root_path": "root/pli/ms/sutta",
     "translation_path": "translation/fr/sekha/sutta",
     "translation_muids": "translation-fr-sekha",
     "collaborator": [
       {
-        "author_github_handle": "BhikkhuSekha"
+        "author_github_handle": "LaniakeanDev"
+      }
+    ]
+  },
+  "gsw_ms_translation_flavio": {
+    "name": "Schweizerdeutsch Mettāsutta translation by Flavio Stucky",
+    "root_path": "root/pli/ms/sutta/kn",
+    "translation_path": "translation/gsw/flavio/sutta/kn",
+    "translation_muids": "translation-gsw-flavio",
+    "collaborator": [
+      {
+        "author_github_handle": "sabbamitta"
       }
     ]
   },
@@ -602,6 +624,48 @@
     "collaborator": [
       {
         "author_github_handle": "kaz-kaz"
+      }
+    ]
+  },
+  "kan_blurb_translation": {
+    "name": "Kannada blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/kan/blurb",
+    "translation_muids": "translation-kan",
+    "collaborator": [
+      {
+        "author_github_handle": "vittal-namdas"
+      },
+      {
+        "author_github_handle": "akileshv"
+      }
+    ]
+  },
+  "kan_localization": {
+    "name": "Kannada localization",
+    "root_path": "root/en/site",
+    "translation_path": "translation/kan/site",
+    "translation_muids": "translation-kan-site",
+    "collaborator": [
+      {
+        "author_github_handle": "vittal-namdas"
+      },
+      {
+        "author_github_handle": "akileshv"
+      }
+    ]
+  },
+  "kan_names_translation": {
+    "name": "Kannada names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/kan/site",
+    "translation_muids": "translation-kan-site",
+    "collaborator": [
+      {
+        "author_github_handle": "vittal-namdas"
+      },
+      {
+        "author_github_handle": "akileshv"
       }
     ]
   },
@@ -920,6 +984,9 @@
     "collaborator": [
       {
         "author_github_handle": "neptunao"
+      },
+      {
+        "author_github_handle": "Korramrmr"
       }
     ]
   },
@@ -934,6 +1001,9 @@
       },
       {
         "author_github_handle": "neptunao"
+      },
+      {
+        "author_github_handle": "Korramrmr"
       }
     ]
   },
@@ -1086,6 +1156,17 @@
       },
       {
         "author_github_handle": "Denizymn"
+      }
+    ]
+  },
+  "tr_ms_translation_dogensisapa": {
+    "name": "Türkçe translation Dōgen Sisapa",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/tr/dogensisapa/sutta",
+    "translation_muids": "translation-tr-dogensisapa",
+    "collaborator": [
+      {
+        "author_github_handle": "DogenSisapa"
       }
     ]
   },
