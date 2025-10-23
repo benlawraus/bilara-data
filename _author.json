@@ -63,6 +63,10 @@
     "type": "translator",
     "name": "Dr Joongpyo Lee"
   },
+  "dhiranandi": {
+    "type": "translator",
+    "name": "Dhīranandī"
+  },  
   "dogensisapa": {
     "type": "translator",
     "name": "Dōgen Sisapa"
@@ -98,6 +102,10 @@
   "jayasaro": {
     "type": "translator",
     "name": "Jayasāro Bhikkhu"
+  },
+  "karunika": {
+    "type": "translator",
+    "name": "Ayyā Kāruṇikā, Ayyā Therikā"
   },
   "kaz": {
     "type": "translator",

@@ -4427,7 +4427,109 @@
     "author_uid": "christelle",
     "author_name": "Christelle Ah-Mouck",
     "author_github_handle": "ChristelleAh-Mouck",
-    "text_uid": "",
+    "text_uid": "an",
+    "translation_title": "Discours Numérotés",
+    "translation_subtitle": "Une traduction de l’Aṅguttara Nikāya",
+    "root_title": "Aṅguttaranikāya",
+    "translation_process": "La source principale est la version anglaise de Bhante Sujato. Traduite de l’anglais au français.",
+    "translation_description": "Traduction de l’anglais au français.",
+    "is_published": true,
+    "publication_status": "Cette traduction est provisoire et sujette à des modifications ultérieures.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Cette traduction est l’expression d’un texte spirituel ancien qui a été transmis par la tradition Bouddhiste pour le bénéfice de tous les êtres sensibles. Elle est dédiée au domaine public via Creative Commons Zero (CC0). Vous êtes encouragés à copier, reproduire, adapter, modifier ou utiliser de toute autre manière cette traduction. Le traducteur demande respectueusement que toute utilisation soit en accord avec les valeurs et les principes de la communauté Bouddhiste."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2025",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/an"
+      }
+    ]
+  },
+  "scpub128": {
+    "publication_number": "scpub128",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "th",
+    "translation_lang_name": "ไทย",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/th/dhiranandi/sutta",
+    "author_uid": "dhiranandi",
+    "author_name": "Dhīranandī",
+    "author_github_handle": "Dhiranandi",
+    "text_uid": "snp",
+    "translation_title": "สุตตนิบาต",
+    "translation_subtitle": "สุตตนิบาต ฉบับแปลไทยสำหรับผู้เริ่มศึกษา",
+    "root_title": "Suttanipāta",
+    "translation_process": "แปลจากต้นฉบับภาษาอังกฤษของ Bhante Sujato เป็นหลัก (ซึ่งแปลจากภาษาบาลี ฉบับมหาสังคีติ) พร้อมทั้งอ้างอิงฉบับแปลภาษาอังกฤษอื่น ๆ อีกหลายฉบับ โดยเฉพาะฉบับของ Bhikkhu Bodhi ตลอดจนฉบับแปลภาษาไทยที่มีเผยแพร่ทางออนไลน์",
+    "translation_description": "โครงการแปลครั้งนี้มุ่งรักษาใจความสำคัญของต้นฉบับ พร้อมปรับถ้อยคำสำนวนให้เหมาะสมกับยุคสมัยเพื่อให้คนรุ่นใหม่เข้าถึงพระธรรมได้ง่ายขึ้น ภาคภาษาไทยฉบับนี้จึงไม่ใช่เป็นงานวิชาการ แต่มีจุดหมายเพียงเพื่อเป็นข้อมูลที่จะช่วยให้เกิดความกระจ่างในพระธรรมคำสอนขึ้นสักเล็กน้อย พร้อมจุดประกายแรงบันดาลใจ ท้าทายความคิดผู้อ่านให้พิจารณาเห็นธรรมะว่าเป็นสิ่งที่เป็นประโยชน์กับคนทุกวัย ทุกยุคทุกสมัย",
+    "is_published": true,
+    "publication_status": "อยู่ระหว่างการแปล",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "งานแปลนี้เป็นการถ่ายทอดพระธรรมคำสอนอันเก่าแก่ของพระพุทธศาสนาเพื่อประโยชน์แก่มนุษย์เราทั้งหลาย โดยขออุทิศให้เป็นสมบัติสาธารณะภายใต้สัญญาอนุญาต Creative Commons Zero (CC0) ท่านสามารถคัดลอก เผยแพร่ ดัดแปลง หรือปรับใช้เนื้อหานี้ได้ตามความเหมาะสม ทั้งนี้ ผู้แปลขอให้ผู้นำไปใช้กรุณาดำเนินการโดยเคารพต่อคุณค่าและหลักการแห่งพระพุทธศาสนา"
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2025",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/snp"
+      }
+    ]
+  },
+  "scpub129": {
+    "publication_number": "scpub129",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "th",
+    "translation_lang_name": "ไทย",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/th/dhiranandi/sutta",
+    "author_uid": "dhiranandi",
+    "author_name": "Dhīranandī",
+    "author_github_handle": "Dhiranandi",
+    "text_uid": "mn",
+    "translation_title": "มัชฌิมนิกาย",
+    "translation_subtitle": "ฉบับแปลไทยสำหรับผู้เริ่มศึกษา",
+    "root_title": "Majjhimanikāya",
+    "translation_process": "แปลจากต้นฉบับภาษาอังกฤษของ Bhante Sujato เป็นหลัก (ซึ่งแปลจากภาษาบาลี ฉบับมหาสังคีติ) พร้อมทั้งอ้างอิงฉบับแปลภาษาอังกฤษอื่น ๆ อีกหลายฉบับ โดยเฉพาะฉบับของ Bhikkhu Bodhi ตลอดจนฉบับแปลภาษาไทยที่มีเผยแพร่ทางออนไลน์",
+    "translation_description": "โครงการแปลครั้งนี้มุ่งรักษาใจความสำคัญของต้นฉบับ พร้อมปรับถ้อยคำสำนวนให้เหมาะสมกับยุคสมัยเพื่อให้คนรุ่นใหม่เข้าถึงพระธรรมได้ง่ายขึ้น ภาคภาษาไทยฉบับนี้จึงไม่ใช่เป็นงานวิชาการ แต่มีจุดหมายเพียงเพื่อเป็นข้อมูลที่จะช่วยให้เกิดความกระจ่างในพระธรรมคำสอนขึ้นสักเล็กน้อย พร้อมจุดประกายแรงบันดาลใจ ท้าทายความคิดผู้อ่านให้พิจารณาเห็นธรรมะว่าเป็นสิ่งที่เป็นประโยชน์กับคนทุกวัย ทุกยุคทุกสมัย",
+    "is_published": true,
+    "publication_status": "อยู่ระหว่างการแปล",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "งานแปลนี้เป็นการถ่ายทอดพระธรรมคำสอนอันเก่าแก่ของพระพุทธศาสนาเพื่อประโยชน์แก่มนุษย์เราทั้งหลาย โดยขออุทิศให้เป็นสมบัติสาธารณะภายใต้สัญญาอนุญาต Creative Commons Zero (CC0) ท่านสามารถคัดลอก เผยแพร่ ดัดแปลง หรือปรับใช้เนื้อหานี้ได้ตามความเหมาะสม ทั้งนี้ ผู้แปลขอให้ผู้นำไปใช้กรุณาดำเนินการโดยเคารพต่อคุณค่าและหลักการแห่งพระพุทธศาสนา"
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2025",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/mn"
+      }
+    ]
+  },
+  "scpub130": {
+    "publication_number": "scpub130",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "si",
+    "translation_lang_name": "සිංහල",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/si/karunika/vinaya",
+    "author_uid": "karunika",
+    "author_name": "Ayyā Kāruṇikā, Ayyā Therikā",
+    "author_github_handle": "VenKarunika",
+    "text_uid": "pli-tv-bi-pm",
     "translation_title": "",
     "translation_subtitle": "",
     "root_title": "",
@@ -4445,9 +4547,77 @@
       {
         "edition_number": "",
         "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "edition_url": ""
+      }
+    ]
+  },
+  "scpub131": {
+    "publication_number": "scpub131",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "si",
+    "translation_lang_name": "සිංහල",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/si/karunika/vinaya",
+    "author_uid": "karunika",
+    "author_name": "Ayyā Kāruṇikā, Ayyā Therikā",
+    "author_github_handle": "VenKarunika",
+    "text_uid": "pli-tv-bi-vb",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": ""
+    },
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "edition_url": ""
+      }
+    ]
+  },
+  "scpub132": {
+    "publication_number": "scpub132",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "fr",
+    "translation_lang_name": "Français",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/fr/christelle/sutta",
+    "author_uid": "christelle",
+    "author_name": "Christelle Ah-Mouck",
+    "author_github_handle": "ChristelleAh-Mouck",
+    "text_uid": "mn",
+    "translation_title": "Discours de Longueur Moyenne",
+    "translation_subtitle": "Une traduction du Majjhima Nikāya",
+    "root_title": "Majjhimanikāya",
+    "translation_process": "La source principale est la version anglaise de Bhante Sujato. Traduite de l’anglais au français.",
+    "translation_description": "Traduction de l’anglais au français.",
+    "is_published": true,
+    "publication_status": "Cette traduction est provisoire et sujette à des modifications ultérieures.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Cette traduction est l’expression d’un texte spirituel ancien qui a été transmis par la tradition Bouddhiste pour le bénéfice de tous les êtres sensibles. Elle est dédiée au domaine public via Creative Commons Zero (CC0). Vous êtes encouragés à copier, reproduire, adapter, modifier ou utiliser de toute autre manière cette traduction. Le traducteur demande respectueusement que toute utilisation soit en accord avec les valeurs et les principes de la communauté Bouddhiste."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2025",
         "publisher": "SuttaCentral",
         "publication_type": "website",
-        "edition_url": ""
+        "edition_url": "https://suttacentral.net/mn"
       }
     ]
   }
