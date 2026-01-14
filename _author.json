@@ -115,6 +115,10 @@
     "type": "translator",
     "name": "John Kelly"
   },
+  "khantibalo": {
+    "type": "translator",
+    "name": "Khantibalo"
+  },  
   "korakot": {
     "type": "translator",
     "name": "Korakot Chaovavanich"
@@ -155,11 +159,15 @@
     "type": "translator",
     "name": "Piotr Marcinów"
   },
+  "mgvali": {
+    "type": "translator",
+    "name": "Margus Väli"
+  },
   "mudito": {
     "type": "translator",
     "name": "Ajahn Mudito"
   },
-  "my-team": {
+  "myteam": {
     "type": "translator",
     "name": "Myanmar Translation Team"
   },
@@ -211,6 +219,10 @@
     "type": "translator",
     "name": "Ayya Soma"
   },
+  "sonjabuege": {
+    "type": "translator",
+    "name": "Sonja Büge"
+  },  
   "suddhaso": {
     "type": "translator",
     "name": "Bhante Suddhāso"
