@@ -274,5 +274,17 @@
   "yingchen": {
     "type": "translator",
     "name": "Ying-Chen Chang"
+  },
+  "bodhi": {
+    "type": "translator",
+    "name": "Bhikkhu Bodhi"
+  },
+  "nyanamoli-khantipalo": {
+    "type": "translator",
+    "name": "Bhikkhus Nyanamoli & Khantipalo"
+  },
+  "rhysdavids": {
+    "type": "translator",
+    "name": "Mrs Rhys Davids, M.A."
   }
 }
