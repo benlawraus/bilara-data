@@ -314,5 +314,10 @@
   "sen": {
     "type": "translator",
     "name": "Cem Şen"
+  },
+  "thanissaro": {
+    "type": "translator",
+    "name": "Ṭhānissaro Bhikkhu"
   }
+
 }
