@@ -130,5 +130,10 @@
   "noeismet": {
     "type": "translator",
     "name": "Noé Ismet"
+  },
+  "thanissaro": {
+    "type": "translator",
+    "name": "Ṭhānissaro Bhikkhu"
   }
+
 }
