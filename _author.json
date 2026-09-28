@@ -195,10 +195,6 @@
     "type": "translator",
     "name": "Evgenia Evmenenko"
   },
-  "nanamoli": {
-    "type": "translator",
-    "name": "Bhikkhu Ñāṇamoli"
-  },
   "noeismet": {
     "type": "translator",
     "name": "Noé Ismet"
@@ -299,6 +295,22 @@
     "type": "translator",
     "name": "Ying-Chen Chang"
   },
+  "cakmakcı": {
+    "type": "translator",
+    "name": "Ufuk Çakmakçı"
+  },
+  "sen": {
+    "type": "translator",
+    "name": "Cem Şen"
+  },
+  "magesh": {
+    "type": "translator",
+    "name": "Upasaka Magesh"
+  },
+  "nanamoli": {
+    "type": "translator",
+    "name": "Bhikkhu Ñāṇamoli"
+  },
   "bodhi": {
     "type": "translator",
     "name": "Bhikkhu Bodhi"
@@ -311,17 +323,8 @@
     "type": "translator",
     "name": "Mrs Rhys Davids, M.A."
   },
-  "cakmakcı": {
-    "type": "translator",
-    "name": "Ufuk Çakmakçı"
-  },
-  "sen": {
-    "type": "translator",
-    "name": "Cem Şen"
-  },
   "thanissaro": {
     "type": "translator",
     "name": "Ṭhānissaro Bhikkhu"
   }
-
 }
