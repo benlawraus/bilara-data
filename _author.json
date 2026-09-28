@@ -195,6 +195,10 @@
     "type": "translator",
     "name": "Evgenia Evmenenko"
   },
+  "nanamoli": {
+    "type": "translator",
+    "name": "Bhikkhu Ñāṇamoli"
+  },
   "noeismet": {
     "type": "translator",
     "name": "Noé Ismet"
@@ -295,6 +299,18 @@
     "type": "translator",
     "name": "Ying-Chen Chang"
   },
+  "bodhi": {
+    "type": "translator",
+    "name": "Bhikkhu Bodhi"
+  },
+  "nyanamoli-khantipalo": {
+    "type": "translator",
+    "name": "Bhikkhus Nyanamoli & Khantipalo"
+  },
+  "rhysdavids": {
+    "type": "translator",
+    "name": "Mrs Rhys Davids, M.A."
+  },
   "cakmakcı": {
     "type": "translator",
     "name": "Ufuk Çakmakçı"
@@ -302,5 +318,10 @@
   "sen": {
     "type": "translator",
     "name": "Cem Şen"
+  },
+  "thanissaro": {
+    "type": "translator",
+    "name": "Ṭhānissaro Bhikkhu"
   }
+
 }
