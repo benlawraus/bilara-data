@@ -1,0 +1,19 @@
+{
+  "dhpak2.9:1.1": "The English story title aligns with the Pāli title. The romanized duplicate title and editorial headings ‘Story of the Past,’ ‘Steadfast,’ and ‘The Reward’ were removed because they have no separate local Pāli passage.",
+  "dhpak2.9:3.3": "pavivitto and āraddhavīriyo describe Tissa as secluded and energetic, not ‘pure, resolute.’",
+  "dhpak2.9:4.1": "uṭṭhāya samuṭṭhāya ñātisaṃsaṭṭho viharati accuses Tissa of constantly keeping company with relatives, not of being ‘busy and active.’",
+  "dhpak2.9:5.5": "puna kiṃ āhārapariyesanenāti na gacchāmi means that, having received enough food, Tissa does not go looking for more. This means he does not go to Sāvatthī for further alms, not that he fails to return to the monastery.",
+  "dhpak2.9:5.9": "mādisaṃ ācariyaṃ labhitvā appicchatā says Tissa's frugality after gaining a teacher like the Buddha is unsurprising; the former English reversed this and said he obtained the Buddha as teacher because he was content.",
+  "dhpak2.9:5.10": "mama tanti, mama paveṇī means frugality is the Teacher's tradition and heritage, not his ‘disposition and habit.’",
+  "dhpak2.9:6.6": "sakkassa bhavanaṃ kampi says the parrot's contentment shakes Sakka's abode, not specifically his throne.",
+  "dhpak2.9:7.3": "Sujā is the Asura maiden accompanying Sakka; the English had called her ‘Sujātā.’",
+  "dhpak2.9:8.2": "koḷāpe means hollow, not old. The editorial heading ‘Story of the Past’ was removed because it has no separate local Pāli passage.",
+  "dhpak2.9:9.1": "The local commentary quotes only the first parrot verse, then instructs that the full Suva Jātaka be expanded according to its form in the Ninth Nipāta; only the occasion differs. The English page's verses 2–10 were omitted from this local-source alignment because they are absent from the commentary. They correspond to Cūḷasuva Jātaka (Ja 430), verses ja430:2.1–ja430:10.4, in bilara-data/root/pli/ms/sutta/kn/ja/ja430_root-pli-ms.json, which can support a separate expanded Jātaka alignment. No corresponding Sujato English Ja 430 file is present in the local Bilara translation directory.",
+  "dhpak2.9:9.2": "The commentary says only the occasion differs between this story and the full Suva Jātaka; the rest should follow the Ninth Nipāta version.",
+  "dhpak2.9:10.5": "The Teacher's statement that a bhikkhu should be frugal like Tissa (bhikkhunā nāma nigamavāsitissena viya appiccheneva bhavitabbaṃ) had been omitted from the English.",
+  "dhpak2.9:10.6": "samathavipassanādhammehi vā maggaphalehi vā parihānāya says a bhikkhu of this kind cannot fall away from calm and insight or from the paths and fruitions; the English had said he was safe because he had already attained them.",
+  "dhpak2.9:11.1": "The repeated Pāli transcription of verse 32 was removed because it has no separate local Pāli passage.",
+  "dhpak2.9:12.1": "The full explanation of verse 32 has no English translation and remains Pāli-only under this paragraph.",
+  "dhpak2.9:14.1": "The Pāli closing story title Nigamavāsitissattheravatthu navamaṃ is Pāli-only and has no English key.",
+  "dhpak2.9:15.1": "The Pāli end-of-chapter notice Appamādavaggavaṇṇanā niṭṭhitā. Dutiyo vaggo. is Pāli-only and has no English key."
+}
